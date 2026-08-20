@@ -1,7 +1,7 @@
 # Activity A1: Graph Representation and Basic Algorithms
 
 ##  Description
-This activity focuses on building a foundational graph library and implementing fundamental traversal and shortest-path algorithms[cite: 20]. The implementation models an undirected, weighted graph $G(V,E,w)$ where operations are optimized to achieve $O(1)$ time complexity whenever possible.
+This activity focuses on building a foundational graph library and implementing fundamental traversal and shortest-path algorithms. The implementation models an undirected, weighted graph $G(V,E,w)$ where operations are optimized to achieve $O(1)$ time complexity whenever possible.
 
 ##  Implemented Features
 
